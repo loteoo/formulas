@@ -1,8 +1,8 @@
 class Ks < Formula
   desc "Command-line secrets manager powered by macOS Keychains"
   homepage "https://github.com/loteoo/ks"
-  url "https://github.com/loteoo/ks/archive/refs/tags/0.4.1.tar.gz"
-  sha256 "6cc5f489440d0e74078f8a041e7226da4f2c6f316b447642ec9b4e630c4cfc67"
+  url "https://github.com/loteoo/ks/archive/refs/tags/0.4.2.tar.gz"
+  sha256 "fb8d54c9844e51689e3213e5218feda520f51ac83efb98a9b4a54dfd82e91cf2"
   license "MIT"
 
   depends_on :macos
